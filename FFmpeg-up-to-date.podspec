@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = "FFmpeg-up-to-date"
-  s.version      = "2.8.3"
+  s.version      = "2.8.2.1"
   s.summary      = "FFmpeg static libraries compiled for iOS"
   s.homepage     = "https://github.com/Arlem/FFmpeg-iOS"
   
