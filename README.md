@@ -8,7 +8,7 @@ Just drag the `/dependencies/include` and `/dependencies/lib` folders into your 
 
 ## Status
 
-This most recent version has been tested with FFmpeg version 2.1.1 and version 7.0 of the iOS SDK.
+This most recent version has been tested with FFmpeg version 2.8.2 and version 9.0 of the iOS SDK.
 
 ## Compilation
 
