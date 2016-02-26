@@ -26,8 +26,8 @@
 #  Choose your rtmpdump version and your currently-installed iOS SDK version:
 #
 VERSION="HEAD"
-SDKVERSION="7.1"
-MINIOSVERSION="6.0"
+SDKVERSION="9.2"
+MINIOSVERSION="7.0"
 
 #
 #
